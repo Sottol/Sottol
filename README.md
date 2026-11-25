@@ -16,7 +16,7 @@
 
 ## Programming Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,cs,dotnet,spring,react,js,mysql,matlab&theme=dark,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,cs,dotnet,spring,react,js,mysql,arduino,matlab&theme=dark)](https://skillicons.dev)
 
 ## Tools & Development Environment
 
