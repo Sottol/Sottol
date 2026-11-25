@@ -20,7 +20,7 @@
 
 ## Tools & Development Environment
 
-[![My Tools](https://skillicons.dev/icons?i=git,github,gitlab,idea,androidstudio,firebase,supabase,visualstudio,clion,linux,blender,vscode&theme=dark)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=git,github,gitlab,idea,androidstudio,firebase,supabase,clion,linux,blender,visualstudio,vscode&theme=dark)](https://skillicons.dev)
 
 ## Let's Connect!
 
