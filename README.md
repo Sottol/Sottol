@@ -23,7 +23,7 @@
 | [**Garden Simulator**](https://github.com/Sottol/simulador-jardim-cpp) | Console garden simulation with polymorphic plant/tool hierarchies, `unique_ptr` memory management, and state snapshots | C++14 · CMake |
 ## Programming Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,dotnet,spring,react,js,mysql,arduino,matlab&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,dotnet,maui,spring,react,js,mysql,arduino,matlab&theme=dark)](https://skillicons.dev)
 
 ## Tools & Development Environment
 
