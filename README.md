@@ -18,8 +18,6 @@
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **Quiz Arena** | Collaborative study web app with timed step-by-step quizzes and AI-generated questions | React · JavaScript · REST API |
-| **GestaoLoja** | Store management web application with data grids and user authentication | C# · ASP.NET Core Blazor · EF Core |
-| **Contacts App** | Android contacts application built with reactive UI state and navigation | Kotlin · Jetpack Compose · StateFlow |
 | **DeepSea** | Submarine exploration game featuring state-machine architecture and resource management | Java · JavaFX |
 ## Programming Languages & Frameworks
 
