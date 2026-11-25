@@ -16,12 +16,11 @@
 
 ## Programming Languages & Frameworks
 
-<!-- Ajusta os badges/ícones conforme os links ou serviços de ícones que preferires -->
-`C` `C++` `Java` `Kotlin` `C#` `ASP.NET Core` `Blazor` `Spring Boot` `React` `JavaScript` `SQL` `MATLAB`
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,cs,dotnet,spring,react,js,mysql,matlab&theme=dark)](https://skillicons.dev)
 
 ## Tools & Development Environment
 
-`Git` `GitHub` `GitLab` `IntelliJ IDEA` `Android Studio` `Visual Studio` `CLion` `VS Code`
+[![My Tools](https://skillicons.dev/icons?i=git,github,gitlab,idea,androidstudio,visualstudio,clion,vscode&theme=dark)](https://skillicons.dev)
 
 ## Let's Connect!
 
