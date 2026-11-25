@@ -3,6 +3,10 @@
 ![Degree](https://img.shields.io/badge/Degree-Computer%20Engineering-blue)
 ![University](https://img.shields.io/badge/University-ISEC-red)
 ![Year](https://img.shields.io/badge/Year-3rd%20Year-informational)
+![Degree](https://img.shields.io/badge/Degree-Computer%20Engineering-blue)
+![University](https://img.shields.io/badge/University-ISEC-red)
+![Year](https://img.shields.io/badge/Year-3rd%20Year-informational)
+![Status](https://img.shields.io/badge/Open%20to-Internship-orange)
 
 3rd-year Computer Engineering student at ISEC (Coimbra), working across backend/distributed systems, web apps, and mobile development. I like breaking problems down from first principles and using AI tools to speed up exploration and prototyping while keeping code review, testing, and architectural decisions in my hands.
 
