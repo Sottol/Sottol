@@ -19,7 +19,7 @@
 | :--- | :--- | :--- |
 | **Quiz Arena** | Collaborative study web app with timed step-by-step quizzes and AI-generated questions | React · JavaScript · REST API |
 | **DeepSea** | Submarine exploration game featuring state-machine architecture and resource management | Java · JavaFX |
-[**Industrial Motor Fault Diagnosis**](https://github.com/SottoI/diagnostico-falhas-cbr-rn)
+[**Industrial Motor Fault Diagnosis**](https://github.com/SottoI/diagnostico-falhas-cbr-rn)|Fault classification system comparing Case-Based Reasoning (CBR) and Feedforward Neural Networks across 14 motor metrics | MATLAB · Deep Learning Toolbox |
 ## Programming Languages & Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,dotnet,spring,react,js,mysql,arduino,matlab&theme=dark)](https://skillicons.dev)
