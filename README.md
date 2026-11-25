@@ -20,6 +20,7 @@
 | **Quiz Arena** | Collaborative study web app with timed step-by-step quizzes and AI-generated questions | React · JavaScript · REST API |
 | **DeepSea** | Submarine exploration game featuring state-machine architecture and resource management | Java · JavaFX |
 [**Industrial Motor Fault Diagnosis**](https://github.com/Sottol/diagnostico-falhas-cbr-rn)|Fault classification system comparing Case-Based Reasoning (CBR) and Feedforward Neural Networks across 14 motor metrics | MATLAB · Deep Learning Toolbox |
+| [**Garden Simulator**](https://github.com/Sottol/simulador-jardim-cpp) | Console garden simulation with polymorphic plant/tool hierarchies, `unique_ptr` memory management, and state snapshots | C++14 · CMake |
 ## Programming Languages & Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,dotnet,spring,react,js,mysql,arduino,matlab&theme=dark)](https://skillicons.dev)
